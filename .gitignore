@@ -1,0 +1,39 @@
+# Dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+.env.development
+.env.production
+
+# IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Build & Distribution
+build/
+dist/
+.next/
+out/
+
+# Cache
+.cache/
+.eslintcache
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
